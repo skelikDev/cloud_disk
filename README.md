@@ -1,1 +1,1 @@
-cloud_disk
+cloud-disk
